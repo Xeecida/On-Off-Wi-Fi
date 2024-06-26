@@ -41,3 +41,5 @@ This Python script enables convenient management of Wi-Fi connections on Windows
 - Ensure the program is run with appropriate privileges for executing Wi-Fi commands (`netsh`).
 - Modify `valid_keys` in the script to add or remove supported key bindings as needed.
 
+[Releases](https://github.com/Xeecida/On-Off-Wi-Fi/releases/tag/Control_Wi-Fi)
+
